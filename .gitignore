@@ -1,0 +1,11 @@
+!wp-content/
+wp-content/*
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
+wp-content/themes/vilva*/
+wp-admin/
+*.log
+*.sql
+*.sqlite
+
