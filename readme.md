@@ -12,7 +12,7 @@ Aller dans le dossier ou vous voulez que le projet soit télécharger
 
 dans une comande CMD dans le dossier voulu faire : 
 
-Git clone https://github.com/GreyFive/SitePerso.git
+Git clone https://github.com/GreyFive/Site-en-souffrance.git
 
 ## Language utiliser
 
