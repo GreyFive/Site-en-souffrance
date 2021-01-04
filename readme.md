@@ -4,6 +4,7 @@ Dossier de production : https://drive.google.com/drive/u/1/folders/1AxngEqn0xcS2
 Adresse du site : http://62.210.83.115:11204/wordpress/ 
 ## Programme ou compte demander 
 Un compte GitHub : https://github.com/
+Télécharger GIT : https://git-scm.com/
 
 ## Comment récuperer le projet?
 
@@ -12,4 +13,12 @@ Aller dans le dossier ou vous voulez que le projet soit télécharger
 dans une comande CMD dans le dossier voulu faire : 
 
 Git clone https://github.com/GreyFive/SitePerso.git
+
+## Language utiliser
+
+1)Php
+
+2)Java
+
+3)CSS
 
