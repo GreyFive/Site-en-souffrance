@@ -1,6 +1,6 @@
 # Site Wordpress fais par Loic David et Mickael Barthemy
 Changement d'un site qui était en souffrance
-Dossier de production : https://drive.google.com/drive/u/1/folders/1AxngEqn0xcS2WF20hUbvsxA5WJTeBrod
+Le dossier de production ce trouve en premier sur github
 Adresse du site : http://62.210.83.115:11204/wordpress/ 
 ## Programme ou compte demander 
 Un compte GitHub : https://github.com/
