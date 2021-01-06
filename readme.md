@@ -1,8 +1,8 @@
 # Site Wordpress fait par Loic David et Mickael Barthemy
 Changement d'un site qui était en souffrance
-Le dossier de production ce trouve en premier sur github
+Le dossier de production se trouve en premier sur github
 Adresse du site : http://62.210.83.115:11204/wordpress/ 
-## Programme ou compte demander 
+## Programme ou compte demandé 
 Un compte GitHub : https://github.com/
 Télécharger GIT : https://git-scm.com/
 
@@ -14,7 +14,7 @@ dans une comande CMD dans le dossier voulu faire :
 
 Git clone https://github.com/GreyFive/Site-en-souffrance.git
 
-## Language utiliser
+## Languages utilisés
 
 1)Php
 
