@@ -1,4 +1,4 @@
-# Site Wordpress fais par Loic David et Mickael Barthemy
+# Site Wordpress fait par Loic David et Mickael Barthemy
 Changement d'un site qui était en souffrance
 Le dossier de production ce trouve en premier sur github
 Adresse du site : http://62.210.83.115:11204/wordpress/ 
